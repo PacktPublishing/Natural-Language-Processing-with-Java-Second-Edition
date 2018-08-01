@@ -1,0 +1,3 @@
+<START:person> Bill <END> went to the farm to see <START:person> Sally <END>. 
+Unable to find <START:person> Sally <END> he went to town.
+There he saw <START:person> Fred <END> who had seen <START:person> Sally <END> at the book store with <START:person> Mary <END>.

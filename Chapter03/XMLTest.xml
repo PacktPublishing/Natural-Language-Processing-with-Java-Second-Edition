@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"?>
+<document>
+ <sentences>
+ <sentence id="1">
+ <word>When</word>
+ <word>the</word>
+ <word>day</word>
+ <word>is</word>
+ <word>done</word>
+ <word>we</word>
+ <word>can</word>
+ <word>sleep</word>
+ <word>.</word>
+ </sentence>
+ <sentence id="2">
+ <word>When</word>
+ <word>the</word>
+ <word>morning</word>
+ <word>comes</word>
+ <word>we</word>
+ <word>can</word>
+ <word>wake</word>
+ <word>.</word>
+ </sentence>
+ <sentence id="3">
+ <word>After</word>
+ <word>that</word>
+ <word>who</word>

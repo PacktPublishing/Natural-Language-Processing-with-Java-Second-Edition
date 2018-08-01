@@ -1,0 +1,6 @@
+useClassFeature=true
+1.realValued=true
+2.realValued=true
+3.realValued=true
+trainFile=.box.train
+testFile=.box.test
