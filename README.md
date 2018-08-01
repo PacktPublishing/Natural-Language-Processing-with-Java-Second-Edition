@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-java-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789347999"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10786.png" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-java-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789347999), published by Packt.
+This is the code repository for [Natural Language Processing with Java Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-java-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789347999), published by Packt.
 
 **Techniques for building machine learning and neural network models for NLP**
 
@@ -50,7 +50,7 @@ With the following software and hardware list you can run all code files present
 | 3        | LingPipe Models                     | Windows, Mac OS X, and Linux (Any) |
 | 4        | OpenNLPModels                       | Windows, Mac OS X, and Linux (Any) |
 | 5        | Gate Twitter Model                  |
-|             LingPipe POS Models                | Windows, Mac OS X, and Linux (Any) |
+|          |   LingPipe POS Models               | Windows, Mac OS X, and Linux (Any) |
 | 6        | Stanford Classifier                 | Windows, Mac OS X, and Linux (Any) |
 | 8-12     | Boilerpipe                          |
 |          |   POI                               |
