@@ -66,7 +66,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-On Natural Language Processing with Python [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-natural-language-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789139495) [[Amazon]](https://www.amazon.com/dp/178913949X)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Richard M. Reese**
 Richard M. Reese has worked in both industry and academia. For 17 years, he worked in the telephone and aerospace industries, serving in several capacities, including research and development, software development, supervision, and training. He currently teaches at Tarleton State University. Richard has written several Java books and a C Pointer book. He uses a concise and easy-to-follow approach to teaching about topics. His Java books have addressed EJB 3.1, updates to Java 7 and 8, certification, functional programming, jMonkeyEngine, and natural language processing.
 
