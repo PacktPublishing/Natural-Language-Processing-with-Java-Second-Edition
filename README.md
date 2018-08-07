@@ -41,19 +41,19 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | OpenNLP                             |
-|          | Stanford CoreNLP                    |
-|          | LingPipe                            |
-|          | Standford Tagger                    |
-|          |                                     | Windows, Mac OS X, and Linux (Any) |
+| 1        | OpenNLP                             |Windows, Mac OS X, and Linux (Any)  |
+|          | Stanford CoreNLP                    |                                    |
+|          | LingPipe                            |                                    |
+|          | Standford Tagger                    |                                    |
+|          |                                     |                                    |
 | 2        | OpenNLP Models                      | Windows, Mac OS X, and Linux (Any) |
 | 3        | LingPipe Models                     | Windows, Mac OS X, and Linux (Any) |
 | 4        | OpenNLPModels                       | Windows, Mac OS X, and Linux (Any) |
-| 5        | Gate Twitter Model                  |
+| 5        | Gate Twitter Model                  |                                    |
 |          |   LingPipe POS Models               | Windows, Mac OS X, and Linux (Any) |
 | 6        | Stanford Classifier                 | Windows, Mac OS X, and Linux (Any) |
-| 8-12     | Boilerpipe                          |
-|          |   POI                               |
+| 8-12     | Boilerpipe                          |                                    |
+|          |   POI                               |                                    |
 |          |  PDFBox                             | Windows, Mac OS X, and Linux (Any) |
 
 
