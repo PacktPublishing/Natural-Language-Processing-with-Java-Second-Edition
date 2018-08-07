@@ -59,7 +59,7 @@ With the following software and hardware list you can run all code files present
 
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www. packtpub.com/sites/default/files/downloads/NaturalLanguageProcessingwithJavaSecondEdition_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/NaturalLanguageProcessingwithJavaSecondEdition_ColorImages.pdf).
 
 ### Related products <Paste books from the Other books you may enjoy section>
 * Java Deep Learning Projects [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/java-deep-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788997454) [[Amazon]](https://www.amazon.com/dp/178899745X)
